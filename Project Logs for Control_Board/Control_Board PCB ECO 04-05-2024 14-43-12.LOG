@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=U1-37
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ8_3 Pin=J8-3
+Added Pin To Net: NetName=NetJ8_3 Pin=U1-36
+Added Net: Name=NetJ8_3
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
