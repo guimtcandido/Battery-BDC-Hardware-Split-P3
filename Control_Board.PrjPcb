@@ -202,23 +202,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KVBGHHBD
 
 [Document10]
-DocumentPath=Bi_Dir.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WGWOIVLB
-
-[Document11]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0008 - Diodes Through Hole\Diodes Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVYJVBTI
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0008 - Diodes Through Hole\Diodes Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNEYOCQH
 
-[Document16]
+[Document15]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0024 - Capacitors Through Hole\Capacitors Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0024 - Capacitors Through Hole\Capacitors Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0023 - Resistor Through Hole\Resistors Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0023 - Resistor Through Hole\Resistors Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0015 - Voltage Regulators Through Hole\Voltage Regulators Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMNNSHNX
 
-[Document21]
+[Document20]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0015 - Voltage Regulators Through Hole\Voltage Regulators Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SSWIMGHL
 
-[Document22]
+[Document21]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0028 - Hall Current Sensor\Hall Current Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRNYOTQO
 
-[Document23]
+[Document22]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0028 - Hall Current Sensor\Hall Current Sensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OBORVAHV
 
-[Document24]
+[Document23]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0016 - Connectors\Connectors Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0016 - Connectors\Connectors Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHNVMILY
 
-[Document26]
+[Document25]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0025 - Optocoupler Through Hole\Optocoupler Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,7 +473,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0025 - Optocoupler Through Hole\Optocoupler Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -507,24 +490,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
-DocumentPath=Battery_Converter.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LOTYMXDU
-
-[Document29]
+[Document27]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0012 - Transceiver CAN\Transceiver CAN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,7 +507,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document28]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0012 - Transceiver CAN\Transceiver CAN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJWFUBNN
 
-[Document31]
+[Document29]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0029 - Relays\Relays.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUPWATWC
 
-[Document32]
+[Document30]
 DocumentPath=..\..\..\0001_Personal\Libraries\Altium-Library\0029 - Relays\Relays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
