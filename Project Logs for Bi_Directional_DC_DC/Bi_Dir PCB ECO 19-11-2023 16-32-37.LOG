@@ -1,0 +1,44 @@
+Removed Member From Class: ClassName=ESP32 Member=12V_Sense_ESP
+Change Component Designator: OldDesignator=+24_IN NewDesignator=*2
+Change Component Designator: OldDesignator=12CS NewDesignator=*6
+Change Component Designator: OldDesignator=12CS_RAW NewDesignator=*4
+Change Component Designator: OldDesignator=12V_IN NewDesignator=*3
+Change Component Designator: OldDesignator=12V_Sense_ESP NewDesignator=*
+Change Component Designator: OldDesignator=24CS NewDesignator=*7
+Change Component Designator: OldDesignator=24CS_RAW NewDesignator=*5
+Change Component Designator: OldDesignator=24V_Sense_ESP NewDesignator=*1
+Add Component: Footprint Not Found LED3mm
+Add Component: Footprint Not Found LED3mm
+Added Component: Designator=R13(Resistor_Through Hole)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FTE52-1R/Yageo/view-part/4629919/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FTE52-1R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FTE52-1R/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FTE52-1R/Yageo/view-part/4629919/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(Resistor_Through Hole)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FTE52-1R/Yageo/view-part/4629919/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FTE52-1R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FTE52-1R/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FTE52-1R/Yageo/view-part/4629919/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin DS2-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R13-1
+Added Net: Name=NetDS1_2
+Added Pin To Net: NetName=NetDS2_2 Pin=R14-1
+Added Net: Name=NetDS2_2
+Added Member To Class: ClassName=ESP32 Member=Component * TitleBlock
+Add Class Member: Failed to add class member : Component DS1 LTL-1CHE
+Add Class Member: Failed to add class member : Component DS2 LTL-1CHE
+Added Member To Class: ClassName=Connectors Member=Component R13 Resistor_Through Hole
+Added Member To Class: ClassName=Connectors Member=Component R14 Resistor_Through Hole

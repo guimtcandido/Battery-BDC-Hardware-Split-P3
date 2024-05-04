@@ -1,0 +1,22 @@
+Added Component: Designator=K(Relay socket 8pin)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-1393243-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1393243-0/TE%20Connectivity%20Potter%20&%20Brumfield%20Relays/view-part/244556/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ5_1 Pin=K-21
+Added Pin To Net: NetName=+12 Pin=K-24
+Added Pin To Net: NetName=NetJ7_1 Pin=K-A1
+Added Pin To Net: NetName=NetK_A2 Pin=K-A2
+Add Net: Net with name "NetL_1" already exists
+Add Net: Net with name "NetL_1" already exists
+Add Net: Net with name "NetL_1" already exists
+Add Net: Net with name "NetL_1" already exists
+Added Member To Class: ClassName=Connectors Member=Component K relay 8pin
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L Coil_500mil
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L Coil_300mil
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L Coil_100mil
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L Coil_500mil
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L Coil_100mil

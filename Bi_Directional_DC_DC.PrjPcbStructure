@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Bi_Dir_Circuit.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Bi_Dir_Circuit.SchDoc|FileName=Communication.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Bi_Dir_Circuit.SchDoc|FileName=Connectors.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Bi_Dir_Circuit.SchDoc|FileName=ESP32.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Bi_Dir_Circuit.SchDoc|FileName=IR2110.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Bi_Dir_Circuit.SchDoc|FileName=Power Circuit.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Bi_Dir_Circuit.SchDoc|FileName=Zero-Cross_Detection.SchDoc|SheetNumber=6

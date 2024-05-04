@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component C29 10uF Cap

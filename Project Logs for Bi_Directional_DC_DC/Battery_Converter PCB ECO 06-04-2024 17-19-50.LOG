@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Power Circuit Member=D35
+Removed Member From Class: ClassName=Power Circuit Member=D36
+Removed Member From Class: ClassName=Power Circuit Member=D37
+Removed Member From Class: ClassName=Power Circuit Member=D38
+Removed Member From Class: ClassName=Communication Member=U8
+Added Component: Designator=*1(M3 - Mounting Hole)
+Added Component: Designator=*2(M3 - Mounting Hole)
+Added Component: Designator=*3(M3 - Mounting Hole)
+Added Component: Designator=*(M3 - Mounting Hole)
+Added Member To Class: ClassName=Connectors Member=Component *1 M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component *2 M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component *3 M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component * M3 Mounting Hole
+Added Member To Class: ClassName=Power Circuit Member=Component D30 Normal Diode
+Added Member To Class: ClassName=Power Circuit Member=Component D31 Normal Diode
+Added Member To Class: ClassName=Power Circuit Member=Component D32 Normal Diode
+Added Member To Class: ClassName=Power Circuit Member=Component D33 Normal Diode
+Added Member To Class: ClassName=Power Circuit Member=Component K2 relay 8pin
+Added Member To Class: ClassName=Power Circuit Member=Component K3 relay 8pin
+Added Member To Class: ClassName=Power Circuit Member=Component K4 relay 8pin
+Added Member To Class: ClassName=Communication Member=Component U7 MCP2562-E/SN

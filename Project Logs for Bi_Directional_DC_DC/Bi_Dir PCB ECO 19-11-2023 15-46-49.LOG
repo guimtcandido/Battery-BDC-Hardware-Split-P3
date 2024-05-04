@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=L NewDesignator=L1
+Change Component Designator: OldDesignator=L NewDesignator=L2
+Change Component Designator: OldDesignator=L NewDesignator=L3
+Change Component Designator: OldDesignator=L NewDesignator=L4
+Change Component Designator: OldDesignator=L NewDesignator=L5
+Change Component Designator: OldDesignator=L NewDesignator=L6
+Change Net Name : Old Net Name=NetL_1 New Net Name=NetL2_2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=L2-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=L4-1
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=L5-1
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=L6-1
+Added Net: Name=NetL5_2
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L1 Coil_500mil
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L2 Coil_500mil
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L3 Coil_300mil
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L4 Coil_300mil
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component L6 Coil_100mil

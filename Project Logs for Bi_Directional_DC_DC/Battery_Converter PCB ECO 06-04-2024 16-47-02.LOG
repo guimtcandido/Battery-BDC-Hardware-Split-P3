@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Added Component: Designator=U8(MCP2562-E/SN)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2562-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2562-E/SN/Microchip/view-part/1055306/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin D20-2
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin D23-2
+Add Pin To Net: Unknown Pin: Pin D27-2
+Added Pin To Net: NetName=NetU1_28 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=+5 Pin=U8-3
+Added Pin To Net: NetName=NetU1_27 Pin=U8-4
+Added Pin To Net: NetName=+3.3 Pin=U8-5
+Added Pin To Net: NetName=NetJ5_2 Pin=U8-6
+Added Pin To Net: NetName=NetJ5_1 Pin=U8-7
+Added Pin To Net: NetName=GND Pin=U8-8
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ6_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ6_3
+Add Class Member: Failed to add class member : Component *1 TitleBlock
+Added Member To Class: ClassName=Communication Member=Component U8 MCP2562-E/SN

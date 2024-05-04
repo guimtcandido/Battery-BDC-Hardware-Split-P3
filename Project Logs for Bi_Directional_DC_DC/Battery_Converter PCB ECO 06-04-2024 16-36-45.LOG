@@ -1,0 +1,92 @@
+Added Component: Designator=C?(Ceramic Capacitor)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LD051A121KAB2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LD051A121KAB2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LD051A121KAB2A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LD051A121KAB2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(Ceramic Capacitor)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LD051A121KAB2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LD051A121KAB2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LD051A121KAB2A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LD051A121KAB2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 4-POS 2.54mm Header
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found MCP2562-E/SN
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+3.3 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin D20-2
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin D23-2
+Add Pin To Net: Unknown Pin: Pin D27-2
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin K1-11
+Add Pin To Net: Unknown Pin: Pin K1-14
+Add Pin To Net: Unknown Pin: Pin K1-A1
+Add Pin To Net: Unknown Pin: Pin K1-A2
+Add Pin To Net: Unknown Pin: Pin K2-11
+Add Pin To Net: Unknown Pin: Pin K2-12
+Add Pin To Net: Unknown Pin: Pin K2-14
+Add Pin To Net: Unknown Pin: Pin K2-21
+Add Pin To Net: Unknown Pin: Pin K2-22
+Add Pin To Net: Unknown Pin: Pin K2-24
+Add Pin To Net: Unknown Pin: Pin K2-A1
+Add Pin To Net: Unknown Pin: Pin K2-A2
+Add Pin To Net: Unknown Pin: Pin K3-11
+Add Pin To Net: Unknown Pin: Pin K3-14
+Add Pin To Net: Unknown Pin: Pin K3-21
+Add Pin To Net: Unknown Pin: Pin K3-24
+Add Pin To Net: Unknown Pin: Pin K3-A1
+Add Pin To Net: Unknown Pin: Pin K3-A2
+Add Pin To Net: Unknown Pin: Pin K4-11
+Add Pin To Net: Unknown Pin: Pin K4-12
+Add Pin To Net: Unknown Pin: Pin K4-14
+Add Pin To Net: Unknown Pin: Pin K4-21
+Add Pin To Net: Unknown Pin: Pin K4-22
+Add Pin To Net: Unknown Pin: Pin K4-24
+Add Pin To Net: Unknown Pin: Pin K4-A1
+Add Pin To Net: Unknown Pin: Pin K4-A2
+Add Pin To Net: Unknown Pin: Pin K-11
+Add Pin To Net: Unknown Pin: Pin K-12
+Add Pin To Net: Unknown Pin: Pin K-14
+Add Pin To Net: Unknown Pin: Pin K-21
+Add Pin To Net: Unknown Pin: Pin K-22
+Add Pin To Net: Unknown Pin: Pin K-24
+Add Pin To Net: Unknown Pin: Pin K-A1
+Add Pin To Net: Unknown Pin: Pin K-A2
+Add Pin To Net: Unknown Pin: Pin U-1
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-4
+Add Pin To Net: Unknown Pin: Pin U-5
+Add Pin To Net: Unknown Pin: Pin U-6
+Add Pin To Net: Unknown Pin: Pin U-7
+Add Pin To Net: Unknown Pin: Pin U-8
+Add Class Member: Failed to add class member : Component *1 TitleBlock
+Added Member To Class: ClassName=Communication Member=Component C? Ceramic Capacitor
+Added Member To Class: ClassName=Communication Member=Component C? Ceramic Capacitor
+Add Class Member: Failed to add class member : Component J6 4-POS 2.54mm Header
+Add Class Member: Failed to add class member : Component K1 relay 8pin
+Add Class Member: Failed to add class member : Component K2 relay 8pin
+Add Class Member: Failed to add class member : Component K3 relay 8pin
+Add Class Member: Failed to add class member : Component K4 relay 8pin
+Add Class Member: Failed to add class member : Component K relay 8pin
+Add Class Member: Failed to add class member : Component U MCP2562-E/SN

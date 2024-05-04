@@ -1,0 +1,34 @@
+Added Component: Designator=J14(6Pin)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HTSW10608SSLA/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HTSW10608SSLA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/HTSW10608SSLA/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HTSW10608SSLA/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J15(6Pin)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HTSW10608SSLA/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HTSW10608SSLA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/HTSW10608SSLA/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HTSW10608SSLA/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ14_01 Pin=J14-01
+Added Pin To Net: NetName=NetJ14_02 Pin=J14-02
+Added Pin To Net: NetName=NetJ14_03 Pin=J14-03
+Added Pin To Net: NetName=NetJ14_04 Pin=J14-04
+Added Pin To Net: NetName=NetJ14_05 Pin=J14-05
+Added Pin To Net: NetName=NetJ14_06 Pin=J14-06
+Added Pin To Net: NetName=NetJ15_01 Pin=J15-01
+Added Pin To Net: NetName=NetJ15_02 Pin=J15-02
+Added Pin To Net: NetName=NetJ15_03 Pin=J15-03
+Added Pin To Net: NetName=NetJ15_04 Pin=J15-04
+Added Pin To Net: NetName=NetJ15_05 Pin=J15-05
+Added Pin To Net: NetName=NetJ15_06 Pin=J15-06
+Added Member To Class: ClassName=ESP32 Member=Component J14 6 Pin Header
+Added Member To Class: ClassName=ESP32 Member=Component J15 6 Pin Header

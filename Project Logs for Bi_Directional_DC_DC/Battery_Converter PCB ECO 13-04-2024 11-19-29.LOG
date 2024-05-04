@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator= NewDesignator=*1
+Change Component Description : Designator=Q2 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q3 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Added Pin To Net: NetName=NetC25_P Pin=R28-1
+Added Pin To Net: NetName=NetC25_P Pin=R29-2

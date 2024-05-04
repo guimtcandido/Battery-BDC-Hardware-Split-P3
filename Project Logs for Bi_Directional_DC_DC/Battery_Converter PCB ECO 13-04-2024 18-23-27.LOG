@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=CAN_1_P
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=CAN_1_N
+Added Differential Pair: Name=CAN_1
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole

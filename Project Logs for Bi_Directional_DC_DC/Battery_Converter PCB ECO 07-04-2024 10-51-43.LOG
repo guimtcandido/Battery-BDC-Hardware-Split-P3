@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetL5_2 Pin=L6-1
+Removed Member From Class: ClassName=Bi_Dir_Circuit Member=L6
+Change Component Footprint: Designator=L5 Old Footprint=Coil Header_100mil New Footprint=Coil 65125
+Change Component Footprint: Designator=L3 Old Footprint=Coil Header_300mil New Footprint=Coil 65125
+Change Component Footprint: Designator=L4 Old Footprint=Coil Header_300mil New Footprint=Coil 65125
+Change Component Footprint: Designator=L1 Old Footprint=Coil Header_500mil New Footprint=Coil 65125
+Change Component Footprint: Designator=L2 Old Footprint=Coil Header_500mil New Footprint=Coil 65125
+Change Component Comment : Designator=L5 Old Comment=Coil_100mil New Comment=Coil_62125
+Change Component Comment : Designator=L3 Old Comment=Coil_300mil New Comment=Coil_62125
+Change Component Comment : Designator=L4 Old Comment=Coil_300mil New Comment=Coil_62125
+Change Component Comment : Designator=L1 Old Comment=Coil_500mil New Comment=Coil_62125
+Change Component Comment : Designator=L2 Old Comment=Coil_500mil New Comment=Coil_62125
+Added Pin To Net: NetName=NetL5_2 Pin=U6-1
+Added Pin To Net: NetName=NetL5_2 Pin=U6-2

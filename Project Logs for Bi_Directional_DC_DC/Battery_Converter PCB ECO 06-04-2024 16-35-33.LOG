@@ -1,0 +1,84 @@
+Change Component Description : Designator=Q2 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q3 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q4 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q5 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q6 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q7 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found 4-POS 2.54mm Header
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found RELAY_1-1393243-0
+Add Component: Footprint Not Found MCP2562-E/SN
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin D20-2
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin D23-2
+Add Pin To Net: Unknown Pin: Pin D27-2
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin K1-11
+Add Pin To Net: Unknown Pin: Pin K1-14
+Add Pin To Net: Unknown Pin: Pin K1-A1
+Add Pin To Net: Unknown Pin: Pin K1-A2
+Add Pin To Net: Unknown Pin: Pin K2-11
+Add Pin To Net: Unknown Pin: Pin K2-12
+Add Pin To Net: Unknown Pin: Pin K2-14
+Add Pin To Net: Unknown Pin: Pin K2-21
+Add Pin To Net: Unknown Pin: Pin K2-22
+Add Pin To Net: Unknown Pin: Pin K2-24
+Add Pin To Net: Unknown Pin: Pin K2-A1
+Add Pin To Net: Unknown Pin: Pin K2-A2
+Add Pin To Net: Unknown Pin: Pin K3-11
+Add Pin To Net: Unknown Pin: Pin K3-14
+Add Pin To Net: Unknown Pin: Pin K3-21
+Add Pin To Net: Unknown Pin: Pin K3-24
+Add Pin To Net: Unknown Pin: Pin K3-A1
+Add Pin To Net: Unknown Pin: Pin K3-A2
+Add Pin To Net: Unknown Pin: Pin K4-11
+Add Pin To Net: Unknown Pin: Pin K4-12
+Add Pin To Net: Unknown Pin: Pin K4-14
+Add Pin To Net: Unknown Pin: Pin K4-21
+Add Pin To Net: Unknown Pin: Pin K4-22
+Add Pin To Net: Unknown Pin: Pin K4-24
+Add Pin To Net: Unknown Pin: Pin K4-A1
+Add Pin To Net: Unknown Pin: Pin K4-A2
+Add Pin To Net: Unknown Pin: Pin K-11
+Add Pin To Net: Unknown Pin: Pin K-12
+Add Pin To Net: Unknown Pin: Pin K-14
+Add Pin To Net: Unknown Pin: Pin K-21
+Add Pin To Net: Unknown Pin: Pin K-22
+Add Pin To Net: Unknown Pin: Pin K-24
+Add Pin To Net: Unknown Pin: Pin K-A1
+Add Pin To Net: Unknown Pin: Pin K-A2
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-5
+Add Pin To Net: Unknown Pin: Pin U-8
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Net: Name=NetU1_27
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Net: Name=NetU1_28
+Add Class Member: Failed to add class member : Component *1 TitleBlock
+Add Class Member: Failed to add class member : Component C26 0.1u
+Add Class Member: Failed to add class member : Component C27 0.1u
+Add Class Member: Failed to add class member : Component J6 4-POS 2.54mm Header
+Add Class Member: Failed to add class member : Component K1 relay 8pin
+Add Class Member: Failed to add class member : Component K2 relay 8pin
+Add Class Member: Failed to add class member : Component K3 relay 8pin
+Add Class Member: Failed to add class member : Component K4 relay 8pin
+Add Class Member: Failed to add class member : Component K relay 8pin
+Add Class Member: Failed to add class member : Component U MCP2562-E/SN
